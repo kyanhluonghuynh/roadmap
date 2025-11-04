@@ -28,7 +28,7 @@ Step 3: Tạo 1 branch để push lên, thông thường sẽ là main.
 
 Step 4: Thêm file mà mình cần đẩy lên trên git. Xài git add <ten file> để thêm nó vào, hoặc git add . để thêm toàn bộ.
 
-Step 5: Em cần phải commit (Tức là tạo 1 message cho action cuủa em)
+Step 5: Em cần phải commit (Tức là tạo 1 message cho action của em)
 
 Step 6: Sau đó em cần đẩy nó lên trên git của em. Thường họ sẽ xài
 
@@ -36,3 +36,8 @@ Step 6: Sau đó em cần đẩy nó lên trên git của em. Thường họ s�
 Đó là xong thui.
 
 Khi em thay đổi gì thì nó cũng sẽ có thay đổi file của em. Mấy này em sẽ tìm hiểu từ từ.
+
+
+Thử thay đổi một dòng trong file này và upload nên trên git.
+
+![img_1.png](img_1.png)
